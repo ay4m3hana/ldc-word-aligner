@@ -1,0 +1,1 @@
+LDC Word Aligner is used for manual annotation of word alignment relationships between a text and its translation in a different language.
